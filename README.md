@@ -1,7 +1,8 @@
 # vector-eye
 A simple program for anki vector, written in python.
 
-Modes are:
+###Modes are:
+
   1: Eye color: 
     Eye color changes the eye to a random color at a certain interval
     
