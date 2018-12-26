@@ -1,5 +1,5 @@
 # vector-eye
-##A simple program for anki vector, written in python.
+## A simple program for anki vector, written in python.
 
 ### Modes are:
 
